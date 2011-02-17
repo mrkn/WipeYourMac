@@ -1,0 +1,5 @@
+WipeYourMac
+===========
+
+BSD License.
+
